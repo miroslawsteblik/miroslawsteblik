@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hi there, I'm Miro! 👋
 
-I'm a passionate developer with a keen interest in open-source projects and collaborative development. Welcome to my GitHub profile!
+I'm a passionate developer with a keen interest in financial data projects and collaborative development. Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
